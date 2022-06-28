@@ -1,0 +1,224 @@
+
+.header{width:100%;
+        height:110px;
+        background:#282C34;
+        margin-left: -10px;
+        margin-top: -10px;
+        padding-right: 18px;
+    }
+.main-body{width:1520px;
+            background:#282C34;;
+            height:530px;
+            margin-left:-10px;
+            padding-right:18px;
+            }
+
+.about{
+        width: 60px;
+        height: -20px;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 20px;  
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 20px;  
+        padding-top: 28px;
+        cursor: pointer;
+    }
+.store{
+        width: 55px;
+    color: #ffffff;
+        font-weight: bolder;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 110px;
+        margin-top:-22px;
+        cursor: pointer;
+    }
+.floomail{
+    color:#ffffff;
+            font-weight: bolder;
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            float: right;
+            margin-right: 290px;
+            margin-top: -22px;
+            cursor: pointer;}
+.image{
+    color: #ffffff;
+        font-weight: bolder;
+        font-size: 20px;    
+        font-family: Arial, Helvetica, sans-serif;
+        float: right;
+        margin-right:-220px;
+        margin-top: -22px;
+        cursor: pointer;
+}
+.pic{float:right;
+    margin-right:-330px ;
+    margin-top: -28px;
+    cursor: pointer;
+
+}
+.right-header{
+            width: 380px;
+            height: 10px;
+            float:right;
+            padding-right: -100px;
+            margin-right: -18px;
+            }
+.title{
+        width: 550px;
+        height: 100px;
+        margin-left: 440px;
+    }
+.f{font-weight: bolder;
+    font-size: 100px;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.l1{margin-top:-114px;
+    margin-left: 80px;
+    font-weight: bolder;
+    font-size: 100px;
+    color: #3bba9c;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.O1{font-size: 100px;
+    color: #ffffff;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    margin-top: -114px;
+    margin-left: 160px;}
+.O2{font-size: 100px;
+    font-weight: bolder;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -114px;
+    margin-left: 250px;
+}  
+.b{font-size: 100px;
+    font-weight: bolder;
+    color: #3bba9c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -114px;
+    margin-left: 330px;
+}
+.l2{ font-weight: bolder;
+    font-size: 100px;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:-114px;
+    margin-left: 420px;}
+.e{font-weight: bolder;
+    font-size: 100px;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:-114px;
+    margin-left: 490px;}
+.search-box{width:600px;
+            height: 50px;
+            background: #ffffff;
+            margin-left: 410px;
+            margin-top: 60px;
+            border-radius: 40px;}
+.flooble-search{background: #ffffff;
+width: 140px;
+height: 50px;
+margin-left: 500px;
+margin-top: 35px;
+border-radius: 8px;}
+.search-btn{width: 140px;
+            height: 50px;
+            cursor: pointer;
+            border-radius: 8px; 
+            border: none;
+            font-family: arial;
+            font-size: 12px;
+            font-weight: lighter;
+            color:lightslategray;          
+        }
+.money-box{background: #ffffff;
+    width: 140px;
+    height: 50px;
+    float: left;
+    margin-left: 750px;
+    margin-top: -50px;
+    border-radius: 8px;}
+.money-btn{width: 140px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 8px; 
+    border: none;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: lighter;
+    color:lightslategray;
+    }
+.footer{width:1520px;
+        height: 107px;
+        background:#707793;
+        margin-left: -10px;
+        padding-right: 18px;
+        }
+.adv{font-family: arial;
+    width: 85px;
+font-size: 18px;
+color: #ffffff;
+padding-top: 50px;
+padding-left: 30px;
+font-weight: bold;
+cursor:pointer;}
+.bsns{
+    font-family: arial;
+    width:85px ;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: -39px;
+    margin-left: 150px;
+    cursor:pointer;
+    }
+
+.privacy{font-family: arial;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    padding-left: 1150px;
+    padding-top: -40px;
+    margin-top: -20px;
+    cursor:pointer;
+}
+.terms{font-family: arial;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    float: right;
+    padding-top: -40px;
+    margin-top: -20px;
+    margin-right: 190px;
+    cursor:pointer;}
+
+.settings{ font-family: arial;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    float:right;
+    padding-top: -20px;
+    margin-top: -20px;
+    margin-right: -180px;
+    cursor:pointer;}
+
+     
+.search-btn:hover{background: wheat;}
+.money-btn:hover{background: wheat;}
+.floomail:hover{color: wheat;}
+.image:hover{color: wheat;}
+.about:hover{color: wheat;}
+.store:hover{color: wheat;}
+.adv:hover{color: wheat;}
+.bsns:hover{color: wheat;}
+.privacy:hover{color: wheat;}
+.terms:hover{color: wheat;}
+.terms:hover{color: wheat;}
+.settings:hover{color: wheat;}
